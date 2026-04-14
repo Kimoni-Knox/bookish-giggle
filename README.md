@@ -14,7 +14,7 @@ This project simulates financial tracking and analysis for a small service-based
 - Net Profit
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.PNG)
 
 ## Key Insights
 - Revenue remained consistent with noticeable peaks mid-month
